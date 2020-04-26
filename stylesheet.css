@@ -180,3 +180,7 @@ footer {
 .footer-list {
  float:right;
 }
+.footer-list li {
+  text-align:left;
+  margin-right:2px;
+}
