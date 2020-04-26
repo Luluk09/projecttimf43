@@ -170,18 +170,13 @@ footer {
   padding-bottom:20px;
 }
 
-.footer-left {
+.footer-logo {
   float: left;
   font-size: 32px;
-  padding:12px;
   
 }
 
-.footer-right {
-  float: right;
-}
 
-.footer-right li {
- font-size:20px;
- 
+.footer-list li {
+ float:right;
 }
