@@ -161,6 +161,8 @@ contact-submit {
   font : #889eab;
 } 
 
+. li {
+  list-style:none;
 
 footer {
   background-color: #008b8b;
@@ -175,7 +177,6 @@ footer {
   font-size: 32px;
   
 }
-
 
 .footer-list {
  float:right;
