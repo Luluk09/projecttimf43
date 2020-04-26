@@ -161,27 +161,26 @@ contact-submit {
   font : #889eab;
 } 
 
-. li {
-  list-style:none;
+
 
 footer {
   background-color: #008b8b;
   color: #000;
   height: 120px;
-  padding-top:20px;
-  padding-bottom:20px;
+  width:100%;
+  
 }
 
 .footer-logo {
-  float: left;
   font-size: 32px;
-  
+  float: left;
+  padding: 40px 40px;
 }
 
 .footer-list {
  float:right;
 }
 .footer-list li {
-  text-align:left;
-  margin-right:2px;
+  padding-bottom:20px;
+  list-style:none;
 }
